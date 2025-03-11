@@ -1,4 +1,4 @@
-# 🚀 My Portfolio Website  
+# 🚀 Portfolio  
 
 ## 📌 Overview  
 This is my personal **portfolio website** built using **React**. It showcases my projects, skills, education timeline, and professional journey. The website is designed to provide visitors with insights into my work and experience.  
