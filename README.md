@@ -12,7 +12,6 @@ This is my personal **portfolio website** built using **React**. It showcases my
 
 ## 🛠️ Tech Stack  
 - **Frontend:** React.js, CSS  
-- **Deployment:** Vercel 
 - **Version Control:** Git & GitHub  
 
 
